@@ -3,27 +3,35 @@
 ## 作曲家
 [维基百科详细列表](https://en.wikipedia.org/wiki/List_of_classical_music_composers_by_era)
 
+## 子标题和昵称
+[维基百科详细列表](https://en.wikipedia.org/wiki/List_of_classical_music_sub-titles,_nicknames_and_non-numeric_titles)
+
 ## 形式
 | 外语 | 中文 | 描述 |
 | :-: | :-: |- |
 | Aria | [咏叹调](https://en.wikipedia.org/wiki/Aria) | 管弦乐队伴奏的独唱曲 |
+| Allemande | [阿勒曼德](https://en.wikipedia.org/wiki/Allemande) | 德国舞曲，巴洛克时期常用来作为组曲中第一首 |
 | Aubade | [晨歌](https://en.wikipedia.org/wiki/Aubade) |  起源于西班牙西北部的加利西亚的田园风味乐曲 |
 | Bagatelle | [小品](https://en.wikipedia.org/wiki/Bagatelle_(music)) | 一小段的音乐，通常由钢琴所演奏，有着轻快、圆润的特色 |
 | Ballade| [叙事曲](https://en.wikipedia.org/wiki/Ballade_(classical_music)) | 通常为抒情、叙事、民间传奇风格的作品，也包括戏剧性和幻想的片段 |
 | Barcarolle| [船歌](https://en.wikipedia.org/wiki/Barcarolle) | 威尼斯船工所唱的歌曲以及模仿这种歌曲的声乐曲和器乐曲 |
+| Bourrée| [布雷舞曲](https://en.wikipedia.org/wiki/Bourr%C3%A9e) | 轻快的二拍子法国舞曲 |
 | Canon| [卡农](https://en.wikipedia.org/wiki/Canon_(music))| 纯以模仿手法构成的复调音乐形式 |
 | Cantata| [康塔塔](https://en.wikipedia.org/wiki/Cantata)| 包括独唱、重唱、合唱的声乐套曲 |
 | Capriccio| [随想曲](https://en.wikipedia.org/wiki/Capriccio_(music))| 曲式自由及曲风活泼的乐曲形式 |
+| Chaconne| [恰空](https://en.wikipedia.org/wiki/Chaconne)| 起源于墨西哥等西班牙殖民地的舞曲音乐 |
 | Chamber music | [室乐](https://en.wikipedia.org/wiki/Chamber_music) | 几件乐器演奏的小型器乐曲 
 | Character piece | [特性曲](https://en.wikipedia.org/wiki/Character_piece) | 富于诗情画意和生活情趣的器乐小曲，主要是钢琴小曲 ||
 | Chorale | [众赞歌](https://en.wikipedia.org/wiki/Chorale) | 德国新教或路得教会的一种感恩赞美诗歌 |
 | Concerto | [协奏曲](https://en.wikipedia.org/wiki/Concerto)| 一件或数件独奏乐器和乐队协同演奏，既有对比又相互交融的作品 |
 | Concerto grosso | [大协奏曲](https://en.wikipedia.org/wiki/Concerto_grosso)| 协奏曲的早期形式 |
 | Contradanza | [行列舞](https://en.wikipedia.org/wiki/Contradanza)| 也叫Habanera，18世纪流行的舞曲 |
+| Courante | [库朗特](https://en.wikipedia.org/wiki/Courante)| 法国舞曲，法语意思是“跑步”，17世纪时开始编入组曲的第二乐章 |
 | Divertimento | [嬉游曲](https://en.wikipedia.org/wiki/Divertimento)| 流行于十八世纪的轻组曲 |
 | Etude | [练习曲](https://en.wikipedia.org/wiki/%C3%89tude) | 针对某一种演奏技巧而作的简短乐曲 |
 | Fantasia| [幻想曲](https://en.wikipedia.org/wiki/Fantasia_(music)) | 很少遵循严格教科书规则的音乐形式 |
 | Fugue | [赋格](https://en.wikipedia.org/wiki/Fugue) | 复调音乐的重要曲式，同一旋律反复出现，互相重叠，或互相“逃难”对方 |
+| Galanterie | [华丽曲](https://en.wikipedia.org/wiki/Galanterie) | 巴洛克组曲中不必须的部分，通常跟在sarabande后 |
 | Gavotte | [加沃特](https://en.wikipedia.org/wiki/Gavotte) |  起源于法国民间的中速、四拍子舞曲 |
 | Gigue | [基格](https://en.wikipedia.org/wiki/Gigue) |  起源于16世纪英国的吉格舞曲 |
 | Gregorian chant | [格列高利圣咏](https://en.wikipedia.org/wiki/Gregorian_chant)|单声部、无伴奏的罗马天主教宗教音乐 |
@@ -47,6 +55,8 @@
 | Oratorio | [清唱剧](https://en.wikipedia.org/wiki/Oratorio) | 类似歌剧的大型声乐体裁，但它有一个叙述故事的人 |
 | Overture | [序曲](https://en.wikipedia.org/wiki/Overture) | 歌剧、舞剧等开幕前演奏的短曲，亦称"开场音乐"  |
 | Partita | [帕蒂塔](https://en.wikipedia.org/wiki/Partita) | 原为单乐器片段，巴洛克时期被用作舞蹈套曲 |
+| Passacaglia | [帕萨卡利亚](https://en.wikipedia.org/wiki/Passacaglia) | 西班牙语pasar(行走)与calle(街道),起源于17世纪早期的西班牙 |
+| Passepied | [快步舞](https://en.wikipedia.org/wiki/Passepied) | 法语发音"pass-foot"，是一种法国宫廷舞蹈 |
 | Polka | [波尔卡](https://en.wikipedia.org/wiki/Polka) | 起源于捷克的速度较快的二拍子舞曲 |
 | Polonaise | [波罗乃兹](https://en.wikipedia.org/wiki/Polonaise) | 波兰舞曲,起源于波兰民间的庄重，缓慢的三拍子舞曲 |
 | Polyphony| [复调音乐](https://en.wikipedia.org/wiki/Polyphony) | 两条以上（含）独立旋律，通过技术性处理，和谐地结合在一起 |
@@ -57,7 +67,8 @@
 | Rhapsody | [狂想曲](https://en.wikipedia.org/wiki/Rhapsody_(music)) | 出现于19世纪初的一种富有民族特色的史诗性器乐曲，常直接采用民间曲调 |
 | Romance | [浪漫曲](https://en.wikipedia.org/wiki/Romance_(music)) | 无固定形式的抒情短歌或短曲 |
 | Rondo | [回旋曲](https://en.wikipedia.org/wiki/Rondo) | 起源于欧洲民间的轮舞歌曲，每唱一段后就重复副歌 |
-| Round| [轮唱曲](https://en.wikipedia.org/wiki/Round_(music)o) | 用同度或八度卡农手法写成的声乐曲 |
+| Round| [轮唱曲](https://en.wikipedia.org/wiki/Round_(music)) | 用同度或八度卡农手法写成的声乐曲 |
+| Sarabande| [萨拉班德](https://en.wikipedia.org/wiki/Sarabande) | 西班牙语Zarabanda，一种庄严的西班牙舞曲，巴洛克时期常被用在组曲第三乐章 |
 | Scherzo | [诙谐曲](https://en.wikipedia.org/wiki/Scherzo) | 快速，节奏强烈的器乐曲，一般为三拍子，有令人惊奇、幽默的特点 |
 | Serenade | [小夜曲](https://en.wikipedia.org/wiki/Serenade) | 一种源自表达爱情的欢快明朗典雅质朴的如歌乐曲 |
 | Sonata | [奏鸣曲](https://en.wikipedia.org/wiki/Sonata) | 汇源自拉丁文的sonare，即发出声响，有别于歌唱的声音 |
@@ -74,7 +85,7 @@
 
 #室乐有二重奏(Duo)，器乐二重奏/声乐二重唱(Duet)，三重奏(Trio),四重奏(Quartet),五重奏(Quintet),六重奏(Sextet),七重奏(Septet),八重奏(Octet),九重奏(Nonet),十重奏(Decet)等
 
-#常见的乐器有钢琴(piano),小提琴(violin),中提琴(viola)，大提琴(cello),羽管键琴(harpsichord)和长笛(flute)等
+#常见的乐器:钢琴(piano),小提琴(violin),中提琴(viola)，大提琴(cello),羽管键琴(harpsichord),长笛(flute),双簧管(Oboe),黑管（Clarinet）,小号（Trumpet）,圆号（Horn)
 
 ## 调性和序号
 | 外语 | 中文 | 
