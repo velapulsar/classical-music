@@ -51,11 +51,11 @@
 | Polonaise | [波罗乃兹](https://en.wikipedia.org/wiki/Polonaise) | 波兰舞曲,起源于波兰民间的庄重，缓慢的三拍子舞曲 |
 | Polyphony| [复调音乐](https://en.wikipedia.org/wiki/Polyphony) | 两条以上（含）独立旋律，通过技术性处理，和谐地结合在一起 |
 | Prelude | [前奏曲](https://en.wikipedia.org/wiki/Prelude_(music)) | 放在各幕之前的短乐曲 |
-| Perpetuum mobile | [无穷动](https://en.wikipedia.org/wiki/Perpetuum_mobile)) | 从头至尾贯穿着急速节奏的乐曲 |
+| Perpetuum mobile | [无穷动](https://en.wikipedia.org/wiki/Perpetuum_mobile) | 从头至尾贯穿着急速节奏的乐曲 |
 | Recitative | [宣叙调](https://en.wikipedia.org/wiki/Recitative) | 歌剧、清唱剧、康塔塔等大型声乐中类似朗诵的曲调 |
 | Requiem | [安魂弥撒](https://en.wikipedia.org/wiki/Requiem) | 天主教礼仪为死者送葬的弥撒曲 |
 | Rhapsody | [狂想曲](https://en.wikipedia.org/wiki/Rhapsody_(music)) | 出现于19世纪初的一种富有民族特色的史诗性器乐曲，常直接采用民间曲调 |
-| Romance | [浪漫曲](https://en.wikipedia.org/wiki/Romance_(music))) | 无固定形式的抒情短歌或短曲 |
+| Romance | [浪漫曲](https://en.wikipedia.org/wiki/Romance_(music)) | 无固定形式的抒情短歌或短曲 |
 | Rondo | [回旋曲](https://en.wikipedia.org/wiki/Rondo) | 起源于欧洲民间的轮舞歌曲，每唱一段后就重复副歌 |
 | Round| [轮唱曲](https://en.wikipedia.org/wiki/Round_(music)o) | 用同度或八度卡农手法写成的声乐曲 |
 | Scherzo | [诙谐曲](https://en.wikipedia.org/wiki/Scherzo) | 快速，节奏强烈的器乐曲，一般为三拍子，有令人惊奇、幽默的特点 |
